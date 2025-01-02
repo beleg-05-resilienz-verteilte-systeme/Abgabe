@@ -1,0 +1,21 @@
+= Resilienz und Fehlertoleranz in verteilten Systemen
+:author: Maksym Derhachov, Florian Schmidt, Lukas Elias Westholt
+:date: Januar 2025
+:revnumber: 1.0
+:revdate: 02.01.2025
+:sectnums:
+:toc:
+:toc-title: Übersicht
+
+== Modul
+Modul “Software Engineering” (https://wse-research.org/team/anbo[Prof. Dr. Andreas Both], Wintersemester 2024/2025) an der https://www.htwk-leipzig.de/[HTWK Leipzig]
+
+== Kurzzusammenfassung
+Hier das Abstract aus der Belegarbeit, vermutlich auf deutsch (?)
+
+== Inhalt der Abgabe
+* https://raw.githubusercontent.com/beleg-05-resilienz-verteilte-systeme/Abgabe/refs/heads/main/05-resilienz-verteilte-systeme.pdf[Belegarbeit (PDF)]
+* https://raw.githubusercontent.com/beleg-05-resilienz-verteilte-systeme/Abgabe/refs/heads/main/05-folien-resilienz-verteilte-systeme.pdf[Folien (PDF)]
+* https://github.com/beleg-05-resilienz-verteilte-systeme/belegarbeit[Belegarbeit (LaTeX)]
+* weitere links, zb zu beispielen, code, ...
+
